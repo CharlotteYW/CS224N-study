@@ -1,0 +1,24 @@
+---
+description: CS224N study loop — update summary, QA, and the README tracker, then commit and push. Teach concepts; do not drop in assignment solutions.
+alwaysApply: true
+---
+
+# CS224N study workflow
+
+This repository is a personal study journal for Stanford CS224N. Spring 2024 YouTube lectures are the watch order. Winter 2025 slides, notes, and assignments are the reading and homework spine. Enrichment lectures wait until assignments 2–4 are in progress or done.
+
+After each lecture, tutorial session, assignment work session, or project step:
+
+1. Update that unit's `summary.md` in the student's own words, dated. A sentence copied from a slide is not a note.
+2. Append the question and the answer to that unit's `qa.md`. Mark whether it is still fuzzy.
+3. Update the status tracker in `README.md`. Status values are `not started`, `in progress`, `notes drafted`, and `complete`.
+4. Commit those note changes and push to `origin`.
+
+Teaching rules:
+
+- Explain the concept, the shape of the computation, and why the course asks for it.
+- Help debug the student's reasoning and error messages.
+- Do not write a finished assignment solution into the repo, and do not paste Stanford handout text.
+- Do not commit Stanford PDFs, starter zips, datasets, or anything under `assignments/*/work/` or `project/work/`.
+
+When a 2024 video number and a 2025 lecture number disagree, follow the mapping already written in that unit's `README.md`.

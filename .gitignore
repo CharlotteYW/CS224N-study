@@ -1,0 +1,17 @@
+# Local environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+
+# Assignment solutions, starter code, data, and checkpoints stay local.
+assignments/*/work/
+project/work/
+data/
+wandb/
+*.zip
+*.pt
+*.pth
+*.bin
