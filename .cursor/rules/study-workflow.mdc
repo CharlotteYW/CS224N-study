@@ -7,16 +7,17 @@ alwaysApply: true
 
 This repository is a personal study journal for Stanford CS224N. Spring 2024 YouTube lectures are the watch order. Winter 2025 slides, notes, and assignments are the reading and homework spine. Enrichment lectures wait until assignments 2–4 are in progress or done.
 
-After each lecture, tutorial session, assignment work session, or project step:
+After each lecture, tutorial session, assignment work session, or project step, the instructor writes the notes. The student studies first, then reports what they understood and asks questions.
 
-1. Update that unit's `summary.md` in the student's own words, dated. A sentence copied from a slide is not a note.
-2. Append the question and the answer to that unit's `qa.md`. Mark whether it is still fuzzy.
+1. Write that unit's `summary.md` from the student's own account of the session, dated. Use their wording. Check it against the concept list already in the file. A sentence copied from a slide is not a note. Do not fill **My study notes** before the student has watched or worked the unit.
+2. For each question the student asks, answer it in the chat, then append one row to that unit's `qa.md`: a short statement of their question, a short statement of the answer, and **Still fuzzy?** set to `yes` or `no`. Use `yes` when they cannot yet restate the idea.
 3. Update the status tracker in `README.md`. Status values are `not started`, `in progress`, `notes drafted`, and `complete`.
 4. Commit those note changes and push to `origin`.
 
 Teaching rules:
 
 - Explain the concept, the shape of the computation, and why the course asks for it.
+- Help the student turn a correct but messy explanation into the summary. Do not replace their attempt with a lecture writeup they did not study.
 - Help debug the student's reasoning and error messages.
 - Do not write a finished assignment solution into the repo, and do not paste Stanford handout text.
 - Do not commit Stanford PDFs, starter zips, datasets, or anything under `assignments/*/work/` or `project/work/`.
