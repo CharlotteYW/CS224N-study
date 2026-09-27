@@ -83,7 +83,7 @@ Rows follow the study order. Lecture 13 and the other enrichment lectures sit in
 
 | Unit | Kind | Priority | Week | Status | Summary | QA |
 | --- | --- | --- | --- | --- | --- | --- |
-| [sessions/01-python-numpy](sessions/01-python-numpy/README.md) | Session | Core | 1 | not started | — | — |
+| [sessions/01-python-numpy](sessions/01-python-numpy/README.md) | Session | Core | 1 | in progress | — | 1 fuzzy |
 | [lectures/01-word-vectors](lectures/01-word-vectors/README.md) | Lecture | Core | 1 | not started | — | — |
 | [lectures/02-word-vectors-and-language-models](lectures/02-word-vectors-and-language-models/README.md) | Lecture | Core | 2 | not started | — | — |
 | [assignments/a1-word-vectors](assignments/a1-word-vectors/README.md) | Assignment | Core | 2 | not started | — | — |

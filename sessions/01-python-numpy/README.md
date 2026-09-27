@@ -5,7 +5,7 @@
 | Kind | Session |
 | Priority | Core |
 | Plan week | 1 |
-| Status | not started |
+| Status | in progress |
 
 About 2 hours, before or alongside Lecture 1.
 

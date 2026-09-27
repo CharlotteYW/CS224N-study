@@ -1,6 +1,6 @@
 # Summary: Python and NumPy review
 
-Status: not started
+Status: in progress
 
 ## Why this unit exists
 
