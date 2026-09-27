@@ -1,11 +1,20 @@
 ---
-description: CS224N study loop — update summary, QA, and the README tracker, then commit and push. Teach concepts; do not drop in assignment solutions.
+description: CS224N study loop — name the next session and its learning target, then write summary, QA, and the tracker, and push. Teach concepts; do not drop in assignment solutions.
 alwaysApply: true
 ---
 
 # CS224N study workflow
 
-This repository is a personal study journal for Stanford CS224N. Spring 2024 YouTube lectures are the watch order. Winter 2025 slides, notes, and assignments are the reading and homework spine. Enrichment lectures wait until assignments 2–4 are in progress or done.
+This repository is a personal study journal for Stanford CS224N. Spring 2024 YouTube lectures are the watch order. Winter 2025 slides, notes, and assignments are the reading and homework spine.
+
+At the start of every study step, before the student goes off to watch or work, name exactly one next session and the target for that sitting. Do this again at the end of a step, after the notes are written, so the following session is explicit. Read the pace and status tracker in `README.md` and that unit's `README.md`. Do not skip ahead of the week plan. Enrichment lectures wait until assignments 2–4 are in progress or done.
+
+State all of the following in the prompt:
+
+- The week, the unit path, and the kind (prerequisite check, session, lecture, assignment, or project).
+- What to open: the video, the Winter 2025 slides or notes, and the local `README.md`.
+- The learning target, taken from that unit's "Done when" line and the concept list in its `summary.md`. Say what the student must be able to explain when they come back.
+- What not to start yet, when the next unit would steal time from this one.
 
 After each lecture, tutorial session, assignment work session, or project step, the instructor writes the notes. The student studies first, then reports what they understood and asks questions.
 

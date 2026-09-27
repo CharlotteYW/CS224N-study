@@ -19,11 +19,12 @@ Guest lectures on speech BCIs, TreeRNNs, responsible NLP, and linguistics stay i
 
 ## How a study step works
 
-1. Watch the video or do the session, with the 2025 slides or notes open.
-2. Come back and say what you understood. The instructor turns that into the unit's `summary.md`: your own words, dated, checked against the concept list. A sentence copied from a slide does not count.
-3. Ask questions in the chat. The instructor answers, then writes a short version of your question and that answer into `qa.md`. The **Still fuzzy?** column is `yes` when the idea is not solid yet, and `no` when you can restate it.
-4. Update the status row below. Use `not started`, `in progress`, `notes drafted`, or `complete`.
-5. Commit the note changes and push to GitHub.
+1. The instructor names the next session and the learning target for that sitting: which week, which folder, what to open, and what you must be able to explain when you return. The target comes from that unit's "Done when" line and its concept list.
+2. Watch the video or do the session, with the 2025 slides or notes open.
+3. Come back and say what you understood. The instructor turns that into the unit's `summary.md`: your own words, dated, checked against the concept list. A sentence copied from a slide does not count.
+4. Ask questions in the chat. The instructor answers, then writes a short version of your question and that answer into `qa.md`. The **Still fuzzy?** column is `yes` when the idea is not solid yet, and `no` when you can restate it.
+5. Update the status row below. Use `not started`, `in progress`, `notes drafted`, or `complete`.
+6. Commit the note changes and push to GitHub, then name the next session and its learning target.
 
 Concept checklists in each summary are the target, written before studying. The notes underneath them get filled in after the session, with the instructor's help.
 
