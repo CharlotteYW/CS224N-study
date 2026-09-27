@@ -29,24 +29,22 @@ Concept checklists in each summary are the target, written before studying. The 
 
 ## Pace
 
-Fourteen weeks, about 8–10 hours a week, starting the week of 28 September 2026. Three sittings: one lecture, one second lecture or tutorial, one coding block. Assignments 2, 3, and 4 are allowed to slip a week. Transformers are not allowed to start while attention is still a diagram you cannot redraw.
+Fourteen weeks, about 8–10 hours a week. Three sittings: one lecture, one second lecture or tutorial, one coding block. Assignments 2, 3, and 4 are allowed to slip a week. If a week is interrupted, finish that derivation or training run in the next week. Transformers are not allowed to start while attention is still a diagram you cannot redraw.
 
-Weeks that contain a US holiday (week of 23 November, weeks of 21 December and 28 December) are buffers. Use them to finish a derivation or a training run.
-
-- **Week 1 (Sep 28 – Oct 4).** Environment, the prerequisite check below, the Python session, Lecture 1.
-- **Week 2 (Oct 5 – Oct 11).** Lecture 2 and Assignment 1.
-- **Week 3 (Oct 12 – Oct 18).** Lecture 3. Start only the written derivative part of Assignment 2.
-- **Week 4 (Oct 19 – Oct 25).** Lecture 4, the PyTorch session, finish Assignment 2, then the closed-book checkpoint.
-- **Week 5 (Oct 26 – Nov 1).** Lecture 5. Restate vanishing gradients the next day without slides.
-- **Week 6 (Nov 2 – Nov 8).** Lecture 6. Draw encoder, decoder, and attention before opening Assignment 3.
-- **Week 7 (Nov 9 – Nov 15).** Assignment 3. Start the training run early.
-- **Week 8 (Nov 16 – Nov 22).** Lecture 7 (short), Lecture 8, Hugging Face session. Rewrite scaled dot-product attention from memory.
-- **Week 9 (Nov 23 – Nov 29).** Lecture 9 and start Assignment 4. Holiday week: spill into week 10 rather than skim pretraining.
-- **Week 10 (Nov 30 – Dec 6).** Lecture 10 and continue Assignment 4.
-- **Week 11 (Dec 7 – Dec 13).** Lecture 11, Lecture 12, the PEFT supplement, finish Assignment 4, second checkpoint.
-- **Week 12 (Dec 14 – Dec 20).** Question answering and knowledge, Lecture 14, Lecture 15.
-- **Week 13 (Dec 21 – Dec 27).** Enrichment lectures only if the core is solid. Write the project proposal. Holiday week.
-- **Week 14 (Dec 28 – Jan 3).** First running slice of the project, and the synthesis review.
+- **Week 1.** Environment, the prerequisite check below, the Python session, Lecture 1.
+- **Week 2.** Lecture 2 and Assignment 1.
+- **Week 3.** Lecture 3. Start only the written derivative part of Assignment 2.
+- **Week 4.** Lecture 4, the PyTorch session, finish Assignment 2, then the closed-book checkpoint.
+- **Week 5.** Lecture 5. Restate vanishing gradients the next day without slides.
+- **Week 6.** Lecture 6. Draw encoder, decoder, and attention before opening Assignment 3.
+- **Week 7.** Assignment 3. Start the training run early.
+- **Week 8.** Lecture 7 (short), Lecture 8, Hugging Face session. Rewrite scaled dot-product attention from memory.
+- **Week 9.** Lecture 9 and start Assignment 4. If this week is short, spill into Week 10 rather than skim pretraining.
+- **Week 10.** Lecture 10 and continue Assignment 4.
+- **Week 11.** Lecture 11, Lecture 12, the PEFT supplement, finish Assignment 4, second checkpoint.
+- **Week 12.** Question answering and knowledge, Lecture 14, Lecture 15.
+- **Week 13.** Enrichment lectures only if the core is solid. Write the project proposal.
+- **Week 14.** First running slice of the project, and the synthesis review.
 
 ```text
 prereq check -> word vectors and A1 -> backprop, parsing, and A2
