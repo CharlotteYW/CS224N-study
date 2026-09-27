@@ -8,4 +8,4 @@ Record a question when it comes up. After it is answered, keep the answer here, 
 
 ## Open questions
 
-- Predict the five shapes in `sessions/01-python-numpy/practice_numpy.py` before running the check. Still fuzzy until those predictions match.
+- Predict the five shapes in `sessions/01-python-numpy/practice_numpy.ipynb` before running the check. Still fuzzy until those predictions match.
