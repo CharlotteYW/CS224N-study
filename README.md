@@ -69,7 +69,7 @@ bash scripts/setup_venv.sh
 source .venv/bin/activate
 ```
 
-The environment is Python 3 with NumPy, PyTorch, JupyterLab, and Matplotlib. It is for lectures, small experiments, and later assignment work on this machine. Download each assignment zip into that assignment's `work/` directory when you reach it. Those directories are gitignored.
+This repository has one dedicated Python environment, `.venv`, created by `scripts/setup_venv.sh`. Use it for every lecture experiment, notebook, and assignment. Activate it with `source .venv/bin/activate` before coding. It already includes NumPy, PyTorch, JupyterLab, and Matplotlib. Assignment-specific packages are added into this same environment when that assignment starts. Download each assignment zip into that assignment's `work/` directory. Both `work/` and `.venv` are gitignored.
 
 Assignments 3 and 4 were written to train on a GPU. Apple MPS is checked by the setup script and is appropriate for small runs. Use the course Colab links in those assignment folders if a local run is too slow.
 

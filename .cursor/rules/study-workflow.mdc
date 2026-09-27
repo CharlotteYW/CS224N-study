@@ -32,3 +32,13 @@ Teaching rules:
 - Do not commit Stanford PDFs, starter zips, datasets, or anything under `assignments/*/work/` or `project/work/`.
 
 When a 2024 video number and a 2025 lecture number disagree, follow the mapping already written in that unit's `README.md`.
+
+## Coding environment
+
+All Python for this course runs in the dedicated virtual environment at `.venv` in this repository. Do not use the system Python or another project's environment for lecture experiments, notebooks, or assignments.
+
+- Create or repair it with `bash scripts/setup_venv.sh`. That script builds `.venv` from `requirements.txt` (NumPy, PyTorch, JupyterLab, Matplotlib, tqdm) and checks that `torch` imports.
+- Activate it before any coding or notebook: `source .venv/bin/activate`.
+- When a sitting includes code, say so in the session prompt and tell the student to activate `.venv` first.
+- Install assignment-specific packages into this same `.venv` when that assignment starts. Do not create a second environment.
+- `.venv` stays gitignored. Never commit it.
