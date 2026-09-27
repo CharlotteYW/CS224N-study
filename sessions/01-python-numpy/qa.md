@@ -4,8 +4,9 @@ Record a question when it comes up. After it is answered, keep the answer here, 
 
 | Date | Question | Answer | Still fuzzy? |
 | --- | --- | --- | --- |
-| 2026-09-26 | How do NumPy shape, broadcasting, and a vectorized operation work, compared with writing a Python loop? | An array's shape is the size of each axis: a vector is `(dim,)`, a matrix of word vectors is `(words, dim)`, a batch is `(batch, words, dim)`. A vectorized operation such as `words @ query` does the loop inside NumPy and returns one score per row. Broadcasting lines axes up from the right and stretches any axis of length 1, so `words + bias` with shapes `(3, 3)` and `(3,)` is still `(3, 3)`. Predict that result shape before running the code. | yes |
+| 2026-09-26 | How do NumPy shape, broadcasting, and a vectorized operation work, compared with writing a Python loop? | An array's shape is the size of each axis: a vector is `(dim,)`, a matrix of word vectors is `(words, dim)`, a batch is `(batch, words, dim)`. A vectorized operation such as `words @ query` does the loop inside NumPy and returns one score per row. Broadcasting lines axes up from the right and stretches any axis of length 1, so `words + bias` with shapes `(3, 3)` and `(3,)` is still `(3, 3)`. | no |
+| 2026-09-26 | Why is `words @ query` shape `(3,)` and not `(3, 1)`? What is the general rule when the shapes are not the same? | `(3,)` is a 1-D array, not a column. `@` multiplies along a shared inner axis and drops that axis. It does not stretch a mismatch, and it does not add an axis, so `(3, 3) @ (3,)` is `(3,)`. A column result `(3, 1)` happens only if the query is already shaped `(3, 1)`. `+`, `-`, `*`, and `/` are the operations that broadcast: pad missing axes with 1 on the left, then stretch any axis of length 1. | yes |
 
 ## Open questions
 
-- Predict the five shapes in `sessions/01-python-numpy/practice_numpy.ipynb` before running the check. Still fuzzy until those predictions match.
+- Apply the two rules in the second half of `practice_numpy.ipynb` to the six new shapes. Still fuzzy until `@` and `+` are chosen by the operation, not by guessing.
