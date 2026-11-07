@@ -6,8 +6,8 @@ here; [ROADMAP.md](ROADMAP.md) is the plan. No new learning is implied by planni
 ## Current state
 
 - **Current week:** Week 02, In Progress.
-- **Current lecture:** L02 Word Vectors and Language Models. The learner requested the L02 materials and goals. Viewing and reading are pending.
-- **Current assignment:** none active; A1 is Not Started, planned for Weeks 02–03.
+- **Current lecture:** L02 Word Vectors and Language Models. Video and guided recall completed. The assigned reading and formal sign-off are pending confirmation.
+- **Current assignment:** Winter 2025 A1, In Progress. The official starter is available in the ignored assignment work directory.
 - **Availability:** learner confirmed 8–10 hours/week on 2026-11-02.
 - **Additional progress:** learner confirmed on 2026-11-02 that no lectures or
   assignments have been completed beyond the saved record.
@@ -49,7 +49,7 @@ mastered; the rubric and gaps must be read. Optional units may stay Not Started.
 | --- | --- | --- |
 | Python/NumPy session | Ready for Review | Legacy `complete` preserved; optional fresh recall, not a new sign-off |
 | [L01 — Word vectors](lectures/01-word-vectors/README.md) | Signed Off | Video, notes, and practice reported complete. Recall attempted. Review items carried forward. |
-| [L02 — Word vectors, word senses, and classifiers](lectures/02-word-vectors-and-language-models/README.md) | In Progress | Materials and goals requested. |
+| [L02 — Word vectors, word senses, and classifiers](lectures/02-word-vectors-and-language-models/README.md) | In Progress | Video completed and guided recall recorded. Reading confirmation and formal sign-off pending. |
 | [L03 — Backpropagation and neural network basics](lectures/03-backprop-and-neural-nets/README.md) | Not Started | Week 4; no completion evidence |
 | [L04 — Dependency parsing](lectures/04-dependency-parsing/README.md) | Not Started | Week 6; no completion evidence |
 | [L05 — Recurrent neural networks and language models](lectures/05-recurrent-neural-networks/README.md) | Not Started | Week 9; no completion evidence |
@@ -70,7 +70,7 @@ mastered; the rubric and gaps must be read. Optional units may stay Not Started.
 | [Ls02 — Question answering and knowledge](lectures/s02-qa-and-knowledge/README.md) | Not Started | Week 22; no completion evidence |
 | [PyTorch tutorial](sessions/02-pytorch/README.md) | Not Started | Weeks 06; no completion evidence |
 | [Hugging Face tutorial](sessions/03-huggingface-transformers/README.md) | Not Started | Weeks 15; no completion evidence |
-| [A1 — Winter 2025](assignments/a1-word-vectors/README.md) | Not Started | Weeks 02–03; no completion evidence |
+| [A1 — Winter 2025](assignments/a1-word-vectors/README.md) | In Progress | Official starter unpacked. Learner attempts pending. |
 | [A2 — Winter 2025](assignments/a2-word2vec-and-dependency/README.md) | Not Started | Weeks 05–08; no completion evidence |
 | [A3 — Winter 2025](assignments/a3-neural-machine-translation/README.md) | Not Started | Weeks 11–13; no completion evidence |
 | [A4 — Winter 2025](assignments/a4-transformers/README.md) | Not Started | Weeks 16–18; no completion evidence |
@@ -182,4 +182,4 @@ The learner approved closing Lecture 01 and Week 01 by replying “ok” to the 
 
 ## Recommended next action
 
-Watch the Spring 2024 Lecture 02 recording with its matching slides, then read the co-occurrence and evaluation sections of the course notes. See the [Lecture 02 plan](lectures/02-word-vectors-and-language-models/README.md). After recall and practice, start the Winter 2025 A1 notebook independently.
+Start Winter 2025 A1 in the local work directory. Run the setup cells, read Part 1, and attempt Question 1.1 independently. Continue to the co-occurrence matrix and low-dimensional visualization in Week 02. See the [A1 plan](assignments/a1-word-vectors/README.md).

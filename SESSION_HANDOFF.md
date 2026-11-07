@@ -82,4 +82,8 @@ No blocker prevents starting study. Remaining questions are prerequisite readine
 retention of NumPy shape rules, actual future study hours, and later project/compute
 choices. Discuss those when relevant; do not ask for approval to repeat this setup.
 
-**Next:** Start Lecture 02 with the Spring 2024 recording, matching slides, and the co-occurrence and evaluation reading. Then ask for recall and begin Winter 2025 A1. Carry forward two Week 01 review items: context-based similarity and an independent skip-gram gradient derivation. The learner approved moving on and explicitly requested a commit and push of the learning records.
+**Next:** Begin Winter 2025 A1. The learner finished the Lecture 02 video, discussed negative sampling, SVD, GloVe, sparse coding, and trainable embeddings, and requested to proceed. The Lecture 02 QA and summary preserve the guided recall. Reading confirmation and formal lecture sign-off are pending.
+
+The official A1 starter was unpacked in the ignored assignment work directory. The learner's first step is to run the setup cells and independently attempt Question 1.1. Carry the Week 01 context-similarity explanation and independent skip-gram gradient derivation into later review.
+
+A dedicated Python 3.12 environment was prepared under the ignored A1 student directory. Import checks passed for datasets, Gensim, scikit-learn, Matplotlib, and JupyterLab. The learner will run the notebook setup cells, including the data-loading step.

@@ -5,7 +5,7 @@
 | Kind | Assignment |
 | Priority | Core |
 | Plan week | 02–03 |
-| Status | Not Started |
+| Status | In Progress |
 
 Winter 2025 source. Plan for 8–12 active hours across Weeks 02–03; unattended training is additional. The detailed weekly budget is in [ROADMAP](../../ROADMAP.md).
 
