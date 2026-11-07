@@ -1,6 +1,6 @@
 # Summary: Backpropagation and neural network basics
 
-Status: not started
+Status: Not Started
 
 ## Why this unit exists
 

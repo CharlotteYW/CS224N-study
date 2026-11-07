@@ -1,6 +1,8 @@
 # Summary: Responsible and human-centered NLP
 
-Status: not started
+Status: Not Started
+
+Source update (2026-11-03): required Winter 2026 slide-led replacement; no 2024 L17 recording verified. The targets below are not learner achievements.
 
 ## Why this unit exists
 
@@ -22,4 +24,4 @@ Write these after you watch, read, or solve. Date each entry. Use your own words
 - [ ] Who is in the evaluation, and who is left out
 - [ ] What you would want to know before calling your project finished
 
-- [ ] Optional. If it changes how you frame the project, write that into project/qa.md.
+- [ ] Study the 2026 social-impact replacement, explain a concrete risk and evaluation gap, and record implications in project/qa.md.

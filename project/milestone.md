@@ -1,6 +1,6 @@
 # Project milestone
 
-Status: not started
+Status: Not Started
 
 ## What runs
 

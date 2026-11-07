@@ -4,10 +4,10 @@
 | --- | --- |
 | Kind | Lecture |
 | Priority | Core |
-| Plan week | 10 |
-| Status | not started |
+| Plan week | 19 |
+| Status | Not Started |
 
-About 3 hours. Draw the three-stage pipeline once.
+Week 19: learn the post-training pipeline and begin the InstructGPT/DPO readings.
 
 ## Why this is in the course
 
@@ -19,7 +19,7 @@ You can say what DPO removes relative to RLHF, and what information the preferen
 
 ## Resources
 
-- [Spring 2024 playlist, Lecture 10](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D)
+- [Spring 2024 recording, local L10 — 1:19:42](https://www.youtube.com/watch?v=35X6zlhoCy4)
 - [Spring 2024 slides](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1246/slides/cs224n-spr2024-lecture10-prompting-rlhf.pdf)
 - [Winter 2025 slides](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1254/slides_w25/cs224n-2025-lecture10-instruction-tunining-rlhf.pdf)
 - [InstructGPT](https://arxiv.org/abs/2203.02155)
@@ -33,3 +33,16 @@ Full reading lists for the quarter are on the [Winter 2025 schedule](https://web
 
 - [summary.md](summary.md) — concept targets, then your notes after you study
 - [qa.md](qa.md) — questions from the study sessions
+
+## Study gate
+
+**Prerequisites:** Pretraining objectives and log-likelihood.
+
+Use the [roadmap](../../ROADMAP.md) for the minimal reading set and time budget, and
+the [course map](../../COURSE_MAP.md) for source years. The existing concept checklist
+in [summary.md](summary.md) is a target, not evidence of understanding.
+
+- [ ] Required materials studied, with learner confirmation.
+- [ ] Learner recall and questions recorded separately from assistant explanations.
+- [ ] Relevant practice attempted; targeted assessment and gaps documented.
+- [ ] Explicit user sign-off recorded in [progress](../../PROGRESS.md).

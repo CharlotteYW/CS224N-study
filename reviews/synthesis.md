@@ -1,6 +1,6 @@
 # Synthesis
 
-Write this in week 14, after the project has a running slice. The point is one path through the course, not a second set of lecture notes.
+Write this in Week 28 after project evaluation and the report. Start from learner recall, then assess and correct gaps. A running slice alone is not project completion.
 
 ## From a static word vector to a contextual state
 

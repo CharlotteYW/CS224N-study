@@ -1,6 +1,6 @@
 # Summary: Efficient neural network training
 
-Status: not started
+Status: Not Started
 
 ## Why this unit exists
 

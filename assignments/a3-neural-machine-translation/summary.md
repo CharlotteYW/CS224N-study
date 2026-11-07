@@ -1,6 +1,6 @@
 # Summary: Assignment 3: neural machine translation
 
-Status: not started
+Status: Not Started
 
 ## Why this unit exists
 
@@ -26,4 +26,4 @@ Write these after you watch, read, or solve. Date each entry. Use your own words
 - [ ] Subword segmentation and what an unknown word used to do to translation
 - [ ] How to describe one systematic error, not only a corpus BLEU
 
-- [ ] A training run finishes, the written analysis is in your own words in summary.md, and you can point at one attention pattern and say whether it is sensible.
+- [ ] A training run finishes, the official written analysis is completed privately and summary.md records safe learning reflections, and you can point at one attention pattern and say whether it is sensible.

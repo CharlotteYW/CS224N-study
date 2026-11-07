@@ -4,10 +4,10 @@
 | --- | --- |
 | Kind | Supplement |
 | Priority | Core supplement |
-| Plan week | 11 |
-| Status | not started |
+| Plan week | 20 |
+| Status | Not Started |
 
-About 3 hours. This 2025 lecture is required even though it is not a separate 2024 video.
+Week 20: required slide-led supplement, paired with LoRA and the efficient-training recording. No matching public 2025 recording is verified.
 
 ## Why this is in the course
 
@@ -33,3 +33,16 @@ Full reading lists for the quarter are on the [Winter 2025 schedule](https://web
 
 - [summary.md](summary.md) — concept targets, then your notes after you study
 - [qa.md](qa.md) — questions from the study sessions
+
+## Study gate
+
+**Prerequisites:** L08–10 and fine-tuning objectives.
+
+Use the [roadmap](../../ROADMAP.md) for the minimal reading set and time budget, and
+the [course map](../../COURSE_MAP.md) for source years. The existing concept checklist
+in [summary.md](summary.md) is a target, not evidence of understanding.
+
+- [ ] Required materials studied, with learner confirmation.
+- [ ] Learner recall and questions recorded separately from assistant explanations.
+- [ ] Relevant practice attempted; targeted assessment and gaps documented.
+- [ ] Explicit user sign-off recorded in [progress](../../PROGRESS.md).

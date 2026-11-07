@@ -1,6 +1,6 @@
 # Summary: Assignment 4: self-supervised learning and fine-tuning transformers
 
-Status: not started
+Status: Not Started
 
 ## Why this unit exists
 
@@ -24,4 +24,4 @@ Write these after you watch, read, or solve. Date each entry. Use your own words
 - [ ] The shapes leaving a transformer layer: batch, position, hidden size
 - [ ] Why a downstream metric can move for reasons that are not 'the model understood the task'
 
-- [ ] The fine-tune runs, summary.md records the objective and the result in your own words, and reviews/checkpoint-after-a4.md is answered closed-book.
+- [ ] All required A4 work is independently complete, actual experiments/checks and limitations are recorded, and the learner explains the results. The broader after-A4 checkpoint is in Week 21.

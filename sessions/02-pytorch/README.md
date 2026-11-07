@@ -4,10 +4,10 @@
 | --- | --- |
 | Kind | Session |
 | Priority | Core |
-| Plan week | 4 |
-| Status | not started |
+| Plan week | 06 |
+| Status | Not Started |
 
-About 2 hours, before the Assignment 2 parser.
+Week 06: prepare the tensor/autograd tools for A2. Allow about 2–3 hours for the tutorial, docs, and independent practice.
 
 ## Why this is in the course
 
@@ -31,3 +31,5 @@ Full reading lists for the quarter are on the [Winter 2025 schedule](https://web
 
 - [summary.md](summary.md) — concept targets, then your notes after you study
 - [qa.md](qa.md) — questions from the study sessions
+
+Use [ROADMAP](../../ROADMAP.md) for required scope and [PROGRESS](../../PROGRESS.md) for evidence. Completion requires a learner explanation, actual practice results, an assessment, and explicit sign-off.

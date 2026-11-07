@@ -1,9 +1,17 @@
 # Lectures
 
-Folders `01` through `18` follow the [Spring 2024 YouTube playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D).
+Folders 01–18 retain the original Spring 2024 topic order. They are stable local
+IDs, not interchangeable year-specific lecture numbers. Use [COURSE_MAP](../COURSE_MAP.md)
+for exact videos, source years, matching slides, and the Winter 2026 crosswalk.
 
-`s01` and `s02` are Winter 2025 lectures that the playlist does not contain as their own videos. They are core, not optional.
+The public playlist includes Winter 2023 recordings for local L08/L09 and several
+extra 2023 videos. L07 includes attention and belongs before A3. No 2024 L17 recording
+is verified; Week 24 uses an explicitly labeled 2026 social-impact replacement.
 
-From Lecture 11 onward, Winter 2025 numbering diverges. Each lecture README says which 2025 slide deck matches the video.
+S01 and S02 are required Winter 2025 slide-led supplements for efficient adaptation
+and question answering. Local L13, L16, and L18 are optional enrichment. L12 is a
+bounded training-constraints overview, complementary to ai-infra-lab.
 
-Enrichment, safe to skip until Assignments 2–4 are done: 13, 16, 17, and 18.
+Follow [ROADMAP](../ROADMAP.md) for weekly scope and [PROGRESS](../PROGRESS.md) for
+actual status. Existing summaries contain targets until learner explanations are
+provided. Do not treat unchecked concepts or assistant-written prose as mastery.

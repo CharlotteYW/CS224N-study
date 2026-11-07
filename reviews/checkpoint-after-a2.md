@@ -1,6 +1,6 @@
 # Checkpoint after Assignment 2
 
-Do this closed-book when Assignment 2 is finished, before Lecture 5. Write the answers here. If a question fails, the fix is to return to Lecture 3 or 4, not to open Lecture 8.
+Do this closed-book when Assignment 2 is finished, before Lecture 5. Use these prompts interactively. Record independent answers and feedback in a dated assessment; do not have the assistant generate an answer key. If a question fails, the fix is to return to Lecture 3 or 4, not to open Lecture 8.
 
 1. In skip-gram, why does each word have two vectors?
 2. What does the softmax denominator sum over, and why is that sum a problem at vocabulary scale?
@@ -10,3 +10,5 @@ Do this closed-book when Assignment 2 is finished, before Lecture 5. Write the a
 
 ## Answers
 
+
+Planned for Week 08. Completion and sign-off are recorded in [PROGRESS](../PROGRESS.md).

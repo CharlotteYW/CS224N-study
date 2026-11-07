@@ -1,6 +1,6 @@
 # Summary: NLP, linguistics, and philosophy
 
-Status: not started
+Status: Not Started
 
 ## Why this unit exists
 

@@ -1,6 +1,6 @@
 # Summary: Post-training: SFT, RLHF, and DPO
 
-Status: not started
+Status: Not Started
 
 ## Why this unit exists
 

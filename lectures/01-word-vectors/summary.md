@@ -1,6 +1,6 @@
 # Summary: Word vectors
 
-Status: not started
+Status: Not Started
 
 ## Why this unit exists
 

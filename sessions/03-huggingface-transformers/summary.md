@@ -1,10 +1,10 @@
 # Summary: Hugging Face transformers tutorial
 
-Status: not started
+Status: Not Started
 
 ## Why this unit exists
 
-Assignment 4 and the project sit on top of tokenizer and model objects. This session is the map of that library, not a new architecture.
+This session makes tokenizer and model interfaces concrete. Inspect official assignment dependencies separately; library use is not proof of architecture understanding.
 
 ## Concepts you must be able to explain
 

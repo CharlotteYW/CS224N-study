@@ -3,26 +3,26 @@
 | | |
 | --- | --- |
 | Kind | Lecture |
-| Priority | Enrichment |
-| Plan week | 13 |
-| Status | not started |
+| Priority | Required supplement |
+| Plan week | 24 (2026 replacement) |
+| Status | Not Started |
 
-About 2 hours, enrichment.
+Week 24: required slide-led replacement using Winter 2026 Social and Broader Impacts of NLP. No 2024 Lecture 17 recording is verified.
 
 ## Why this is in the course
 
-A model that scores well can still be the wrong system to deploy. This guest lecture is the course's pass over that gap. It will not teach you a new architecture.
+A model can score well while missing important effects on people. Use the explicitly labeled 2026 social-impact deck to connect evaluation with the project's intended use and limitations.
 
 ## Done when
 
-Optional. If it changes how you frame the project, write that into project/qa.md.
+Explain a concrete model risk, who is affected, and what evidence the evaluation would need. Record the implications for the project and complete a targeted assessment.
 
 ## Resources
 
-- [Spring 2024 playlist, Lecture 17](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D)
-- [Slides](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1246/slides/cs224n-2024-lecture17-human-centered-nlp.pdf)
+- [Winter 2026 social-impact slides (required replacement)](https://web.stanford.edu/class/cs224n/slides_w26/cs224n-2026-lecture16-impact-on-humanity.pdf)
+- [Legacy human-centered deck (match to the 2024 guest talk unverified)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1246/slides/cs224n-2024-lecture17-human-centered-nlp.pdf)
 
-The 2024 schedule lists this guest lecture as responsible NLP. The slide file is named human-centered NLP.
+The 2024 schedule lists Responsible NLP by Adina Williams without a slide link; no L17 recording appears in the inspected playlist. Do not claim that the legacy human-centered deck matches that lecture. Completion here refers to the 2026 replacement, with its year recorded.
 
 Full reading lists for the quarter are on the [Winter 2025 schedule](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1254/index.html#schedule) and the [Spring 2024 site](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1246/).
 
@@ -30,3 +30,16 @@ Full reading lists for the quarter are on the [Winter 2025 schedule](https://web
 
 - [summary.md](summary.md) — concept targets, then your notes after you study
 - [qa.md](qa.md) — questions from the study sessions
+
+## Study gate
+
+**Prerequisites:** L10 post-training, L11 evaluation, and a tentative project use case.
+
+Use the [roadmap](../../ROADMAP.md) for the minimal reading set and time budget, and
+the [course map](../../COURSE_MAP.md) for source years. The existing concept checklist
+in [summary.md](summary.md) is a target, not evidence of understanding.
+
+- [ ] Required materials studied, with learner confirmation.
+- [ ] Learner recall and questions recorded separately from assistant explanations.
+- [ ] Relevant practice attempted; targeted assessment and gaps documented.
+- [ ] Explicit user sign-off recorded in [progress](../../PROGRESS.md).

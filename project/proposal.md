@@ -1,8 +1,8 @@
 # Project proposal
 
-Status: not started
+Status: Not Started
 
-Fill this in week 13, after Lectures 8 and 9. Default recommendation: the Winter 2025 minimal GPT-2 project, unless a concrete language problem is already in hand.
+Record a tentative idea in Week 10 and finalize scope in Week 25. Recommended: a small custom NLP experiment with a testable question. The full Winter 2025 GPT-2 project is an alternative requiring a revised time/compute budget.
 
 ## Choice
 

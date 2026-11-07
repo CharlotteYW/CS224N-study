@@ -1,6 +1,6 @@
 # Summary: Speech brain-computer interfaces
 
-Status: not started
+Status: Not Started
 
 ## Why this unit exists
 

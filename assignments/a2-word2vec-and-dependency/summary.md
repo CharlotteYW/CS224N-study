@@ -1,6 +1,6 @@
 # Summary: Assignment 2: word2vec derivatives and a dependency parser
 
-Status: not started
+Status: Not Started
 
 ## Why this unit exists
 

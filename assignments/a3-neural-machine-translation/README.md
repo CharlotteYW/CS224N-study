@@ -4,10 +4,10 @@
 | --- | --- |
 | Kind | Assignment |
 | Priority | Core |
-| Plan week | 7 |
-| Status | not started |
+| Plan week | 11–13 |
+| Status | Not Started |
 
-A full week, and start the training run before the writeup is polished. The model is larger than Assignment 2 and the run is the long part.
+Winter 2025 source. Plan for 20–26 active hours across Weeks 11–13; unattended training is additional. The detailed weekly budget is in [ROADMAP](../../ROADMAP.md).
 
 ## Why this is in the course
 
@@ -15,7 +15,7 @@ You implement an encoder-decoder with attention, then you look at what it actual
 
 ## Done when
 
-A training run finishes, the written analysis is in your own words in summary.md, and you can point at one attention pattern and say whether it is sensible.
+A training run finishes, the official written analysis is completed privately and summary.md records safe learning reflections, and you can point at one attention pattern and say whether it is sensible.
 
 ## Resources
 
@@ -33,3 +33,28 @@ Full reading lists for the quarter are on the [Winter 2025 schedule](https://web
 
 - [summary.md](summary.md) — concept targets, then your notes after you study
 - [qa.md](qa.md) — questions from the study sessions
+
+## Prerequisites and milestones
+
+L05–07, gated RNNs, attention, PyTorch, and a small convolution/shape primer.
+
+- [ ] Read the complete 2025 architecture and environment requirements; attempt encoder/decoder/attention milestones.
+- [ ] Run the official sanity checks and short local diagnostics; record only actual results.
+- [ ] Train/decode/evaluate as instructed; record hardware, commands, active time, compute time, and metrics.
+- [ ] Independently finish written NMT analysis, explain failures and limitations, then assess and request A3 sign-off.
+
+## Evidence and coaching boundary
+
+Keep official written answers, starter code, implementations, and submission artifacts
+in this folder's ignored `work/` directory. Public summary/QA records concepts,
+learner questions, allowed hints, mistakes/corrections, and non-solution reflections.
+Record tests only when actually run, including command, runner, outcome, and limits.
+For completion, satisfy all official required tasks, explain your reasoning, document
+remaining limitations, complete an assessment, and explicitly sign off.
+
+Follow the [2025 policy](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1254/):
+no AI-generated final answers or completed TODOs. A1/A2 review may identify issues
+without solving them; A3/A4 support follows the course's TA code-inspection limit and
+uses conceptual questions, unrelated examples, and debugging strategies. Access to
+Gradescope, course credits, or cloud resources is not assumed. A reduced experiment
+must be labeled reduced and does not establish full official completion.

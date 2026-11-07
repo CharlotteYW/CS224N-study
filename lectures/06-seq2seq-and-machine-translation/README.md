@@ -4,10 +4,10 @@
 | --- | --- |
 | Kind | Lecture |
 | Priority | Core |
-| Plan week | 6 |
-| Status | not started |
+| Plan week | 10 |
+| Status | Not Started |
 
-About 4 hours. Draw the diagram yourself before you open Assignment 3.
+Week 10: study this lecture and the attention portion of L07 before beginning A3 in Week 11.
 
 ## Why this is in the course
 
@@ -19,7 +19,7 @@ You can draw encoder, decoder, and attention weights for one decoding step, and 
 
 ## Resources
 
-- [Spring 2024 playlist, Lecture 6](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D)
+- [Spring 2024 recording, local L06 — 1:17:09](https://www.youtube.com/watch?v=Ba6Fn1-Jsfw)
 - [Spring 2024 slides](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1246/slides/cs224n-spr2024-lecture06-fancy-rnn.pdf)
 - [Winter 2025 slides (advanced RNNs and attention)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1254/slides_w25/cs224n-2025-lecture06-fancy-rnn.pdf)
 - [Notes for lectures 5 and 6](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1254/readings/cs224n-2019-notes05-LM_RNN.pdf)
@@ -36,3 +36,16 @@ Full reading lists for the quarter are on the [Winter 2025 schedule](https://web
 
 - [summary.md](summary.md) — concept targets, then your notes after you study
 - [qa.md](qa.md) — questions from the study sessions
+
+## Study gate
+
+**Prerequisites:** L05 RNNs and backpropagation through time.
+
+Use the [roadmap](../../ROADMAP.md) for the minimal reading set and time budget, and
+the [course map](../../COURSE_MAP.md) for source years. The existing concept checklist
+in [summary.md](summary.md) is a target, not evidence of understanding.
+
+- [ ] Required materials studied, with learner confirmation.
+- [ ] Learner recall and questions recorded separately from assistant explanations.
+- [ ] Relevant practice attempted; targeted assessment and gaps documented.
+- [ ] Explicit user sign-off recorded in [progress](../../PROGRESS.md).

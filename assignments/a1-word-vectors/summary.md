@@ -1,6 +1,6 @@
 # Summary: Assignment 1: exploring word vectors
 
-Status: not started
+Status: Not Started
 
 ## Why this unit exists
 

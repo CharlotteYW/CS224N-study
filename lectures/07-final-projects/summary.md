@@ -1,6 +1,6 @@
 # Summary: Final projects and a first look at the project
 
-Status: not started
+Status: Not Started
 
 ## Why this unit exists
 
@@ -8,6 +8,7 @@ Half of the graded course is a project. This lecture is how to choose a question
 
 ## Concepts you must be able to explain
 
+- Attention as a weighted combination of encoder states, including the normalization axis
 - Default project versus a custom project, and what 'larger team, larger project' is asking
 - A baseline you can explain, then one change you can measure
 - The 2024 video discusses a minimal BERT project. The 2025 handout we will follow is a minimal GPT-2
@@ -19,6 +20,7 @@ Write these after you watch, read, or solve. Date each entry. Use your own words
 
 ## Explain without notes
 
+- [ ] Attention as a weighted combination of encoder states, including the normalization axis
 - [ ] Default project versus a custom project, and what 'larger team, larger project' is asking
 - [ ] A baseline you can explain, then one change you can measure
 - [ ] The 2024 video discusses a minimal BERT project. The 2025 handout we will follow is a minimal GPT-2

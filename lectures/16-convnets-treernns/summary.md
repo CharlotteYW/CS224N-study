@@ -1,6 +1,6 @@
 # Summary: ConvNets, tree recursive networks, and constituency parsing
 
-Status: not started
+Status: Not Started
 
 ## Why this unit exists
 

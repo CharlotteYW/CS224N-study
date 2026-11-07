@@ -4,10 +4,10 @@
 | --- | --- |
 | Kind | Assignment |
 | Priority | Core |
-| Plan week | 3–4 |
-| Status | not started |
+| Plan week | 05–08 |
+| Status | Not Started |
 
-Two weeks. Week 3 is the written derivatives, after Lecture 3. Week 4 is the parser, after Lecture 4 and the PyTorch session.
+Winter 2025 source. Plan for 18–24 active hours across Weeks 05–08; unattended training is additional. The detailed weekly budget is in [ROADMAP](../../ROADMAP.md).
 
 ## Why this is in the course
 
@@ -33,3 +33,28 @@ Full reading lists for the quarter are on the [Winter 2025 schedule](https://web
 
 - [summary.md](summary.md) — concept targets, then your notes after you study
 - [qa.md](qa.md) — questions from the study sessions
+
+## Prerequisites and milestones
+
+L01–04, calculus/shape checks, and the PyTorch tutorial.
+
+- [ ] Part 1: independently attempt the naive-softmax mathematical problems (Week 05).
+- [ ] Part 2: independently reason about Adam and dropout (Week 05).
+- [ ] Part 3: build/test parser transitions and the neural parser; train and analyze errors (Weeks 06–08).
+- [ ] Record actual checks and results; complete the foundation checkpoint and request A2 sign-off.
+
+## Evidence and coaching boundary
+
+Keep official written answers, starter code, implementations, and submission artifacts
+in this folder's ignored `work/` directory. Public summary/QA records concepts,
+learner questions, allowed hints, mistakes/corrections, and non-solution reflections.
+Record tests only when actually run, including command, runner, outcome, and limits.
+For completion, satisfy all official required tasks, explain your reasoning, document
+remaining limitations, complete an assessment, and explicitly sign off.
+
+Follow the [2025 policy](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1254/):
+no AI-generated final answers or completed TODOs. A1/A2 review may identify issues
+without solving them; A3/A4 support follows the course's TA code-inspection limit and
+uses conceptual questions, unrelated examples, and debugging strategies. Access to
+Gradescope, course credits, or cloud resources is not assumed. A reduced experiment
+must be labeled reduced and does not establish full official completion.

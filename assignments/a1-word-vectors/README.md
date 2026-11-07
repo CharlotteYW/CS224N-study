@@ -4,10 +4,10 @@
 | --- | --- |
 | Kind | Assignment |
 | Priority | Core |
-| Plan week | 2 |
-| Status | not started |
+| Plan week | 02–03 |
+| Status | Not Started |
 
-A few sittings in week 2. This is the on-ramp, not the hard assignment.
+Winter 2025 source. Plan for 8–12 active hours across Weeks 02–03; unattended training is additional. The detailed weekly budget is in [ROADMAP](../../ROADMAP.md).
 
 ## Why this is in the course
 
@@ -20,7 +20,7 @@ The notebook runs, and summary.md says what surprised you in the nearest neighbo
 ## Resources
 
 - [Winter 2025 starter zip](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1254/assignments_w25/a1.zip)
-- [Preview notebook (read in the browser)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1254/assignments/a1_preview/exploring_word_vectors.html)
+- [Legacy preview notebook (supplement only; 2025 ZIP is authoritative)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1254/assignments/a1_preview/exploring_word_vectors.html)
 - [Winter 2025 schedule](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1254/index.html#schedule)
 - Lectures: `lectures/01-word-vectors and lectures/02-word-vectors-and-language-models`
 
@@ -32,3 +32,28 @@ Full reading lists for the quarter are on the [Winter 2025 schedule](https://web
 
 - [summary.md](summary.md) — concept targets, then your notes after you study
 - [qa.md](qa.md) — questions from the study sessions
+
+## Prerequisites and milestones
+
+L01–02 and the NumPy prerequisite review.
+
+- [ ] Inspect the 2025 notebook instructions and environment; begin co-occurrence/visualization work.
+- [ ] Attempt the remaining pretrained-vector exploration and written interpretation independently.
+- [ ] Rerun the notebook; record actual kernel/commands, observations, and limitations.
+- [ ] Explain similarity, analogy, and bias findings; complete assessment and request A1 sign-off.
+
+## Evidence and coaching boundary
+
+Keep official written answers, starter code, implementations, and submission artifacts
+in this folder's ignored `work/` directory. Public summary/QA records concepts,
+learner questions, allowed hints, mistakes/corrections, and non-solution reflections.
+Record tests only when actually run, including command, runner, outcome, and limits.
+For completion, satisfy all official required tasks, explain your reasoning, document
+remaining limitations, complete an assessment, and explicitly sign off.
+
+Follow the [2025 policy](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1254/):
+no AI-generated final answers or completed TODOs. A1/A2 review may identify issues
+without solving them; A3/A4 support follows the course's TA code-inspection limit and
+uses conceptual questions, unrelated examples, and debugging strategies. Access to
+Gradescope, course credits, or cloud resources is not assumed. A reduced experiment
+must be labeled reduced and does not establish full official completion.

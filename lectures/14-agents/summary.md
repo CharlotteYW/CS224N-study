@@ -1,6 +1,6 @@
 # Summary: Reasoning and agents
 
-Status: not started
+Status: Not Started
 
 ## Why this unit exists
 

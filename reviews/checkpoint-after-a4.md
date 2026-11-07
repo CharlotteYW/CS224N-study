@@ -1,6 +1,6 @@
 # Checkpoint after Assignment 4
 
-Closed-book, after Assignment 4 runs. These are the ideas the second half of the course assumes.
+Planned for Week 21, after A4, post-training, and evaluation. A4 itself is assessed in Week 18. Use these prompts interactively and wait for learner answers; do not generate an answer key.
 
 1. Write scaled dot-product attention. Say what the scale is for, and what the softmax is over.
 2. How does a transformer represent word order once there is no recurrence?

@@ -1,6 +1,6 @@
 # Summary: Word vectors, word senses, and classifiers
 
-Status: not started
+Status: Not Started
 
 ## Why this unit exists
 
@@ -8,7 +8,7 @@ Lecture 1 builds vectors by prediction. This lecture asks whether counting co-oc
 
 ## Concepts you must be able to explain
 
-- Negative sampling as the practical replacement for the full softmax (the derivation is Assignment 2, not this sitting)
+- Negative sampling as the practical replacement for the full softmax (independent practice in Week 03; Winter 2025 A2 uses naive softmax)
 - Co-occurrence counts, and the idea behind GloVe: fit vectors to statistics you can count
 - Cosine similarity
 - Intrinsic evaluation (analogy, similarity) versus extrinsic evaluation (a real task)
@@ -21,7 +21,7 @@ Write these after you watch, read, or solve. Date each entry. Use your own words
 
 ## Explain without notes
 
-- [ ] Negative sampling as the practical replacement for the full softmax (the derivation is Assignment 2, not this sitting)
+- [ ] Negative sampling as the practical replacement for the full softmax (independent practice in Week 03; Winter 2025 A2 uses naive softmax)
 - [ ] Co-occurrence counts, and the idea behind GloVe: fit vectors to statistics you can count
 - [ ] Cosine similarity
 - [ ] Intrinsic evaluation (analogy, similarity) versus extrinsic evaluation (a real task)

@@ -1,6 +1,6 @@
 # Summary: PyTorch tutorial
 
-Status: not started
+Status: Not Started
 
 ## Why this unit exists
 
