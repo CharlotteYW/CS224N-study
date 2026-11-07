@@ -5,7 +5,7 @@
 | Kind | Lecture |
 | Priority | Core |
 | Plan week | 1 |
-| Status | Not Started |
+| Status | Signed Off |
 
 About 3 hours for the lecture, selected notes, and recall, within Week 01. The first sitting is about 2 hours; read remaining notes in the next sitting.
 

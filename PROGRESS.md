@@ -5,9 +5,8 @@ here; [ROADMAP.md](ROADMAP.md) is the plan. No new learning is implied by planni
 
 ## Current state
 
-- **Current week:** Week 01, In Progress only because the earlier NumPy session is
-  already recorded complete. The new prerequisite diagnostic has not occurred.
-- **Next lecture:** L01 Word Vectors — Not Started.
+- **Current week:** Week 02, In Progress.
+- **Current lecture:** L02 Word Vectors and Language Models. The learner requested the L02 materials and goals. Viewing and reading are pending.
 - **Current assignment:** none active; A1 is Not Started, planned for Weeks 02–03.
 - **Availability:** learner confirmed 8–10 hours/week on 2026-11-02.
 - **Additional progress:** learner confirmed on 2026-11-02 that no lectures or
@@ -15,8 +14,8 @@ here; [ROADMAP.md](ROADMAP.md) is the plan. No new learning is implied by planni
 - **Primary source:** Winter 2025 coursework; 2024 videos with labeled 2023
   substitutions; selected 2026 updates. See [COURSE_MAP.md](COURSE_MAP.md).
 - **Actual study hours:** not reported. Do not enter zero or substitute estimates.
-- **Latest formal assessment:** none under the new rubric. No new sign-offs.
-- **Blockers:** none for starting L01. Historical assignment package compatibility,
+- **Latest formal assessment:** none under the new rubric. Week 01 was signed off with review items carried forward.
+- **Blockers:** none for starting L02. Historical assignment package compatibility,
   full-training runtime, and course Colab access have not been tested.
 
 ## Preserved NumPy evidence
@@ -49,8 +48,8 @@ mastered; the rubric and gaps must be read. Optional units may stay Not Started.
 | Unit | Status | Evidence / plan |
 | --- | --- | --- |
 | Python/NumPy session | Ready for Review | Legacy `complete` preserved; optional fresh recall, not a new sign-off |
-| [L01 — Word vectors](lectures/01-word-vectors/README.md) | Not Started | Week 1; no completion evidence |
-| [L02 — Word vectors, word senses, and classifiers](lectures/02-word-vectors-and-language-models/README.md) | Not Started | Week 2; no completion evidence |
+| [L01 — Word vectors](lectures/01-word-vectors/README.md) | Signed Off | Video, notes, and practice reported complete. Recall attempted. Review items carried forward. |
+| [L02 — Word vectors, word senses, and classifiers](lectures/02-word-vectors-and-language-models/README.md) | In Progress | Materials and goals requested. |
 | [L03 — Backpropagation and neural network basics](lectures/03-backprop-and-neural-nets/README.md) | Not Started | Week 4; no completion evidence |
 | [L04 — Dependency parsing](lectures/04-dependency-parsing/README.md) | Not Started | Week 6; no completion evidence |
 | [L05 — Recurrent neural networks and language models](lectures/05-recurrent-neural-networks/README.md) | Not Started | Week 9; no completion evidence |
@@ -81,16 +80,17 @@ mastered; the rubric and gaps must be read. Optional units may stay Not Started.
 | Transformer/post-training checkpoint | Not Started | Week 21; reviews/checkpoint-after-a4.md |
 | Final synthesis | Not Started | Week 28; reviews/synthesis.md |
 
-## Current Week 01 checklist
+## Week 01 checklist
 
 - [ ] Prerequisite diagnostic attempted: shapes, calculus, probability, logarithms.
-- [ ] L01 video watched, with extent confirmed by learner.
-- [ ] Required L01 notes and targeted prerequisite readings studied.
-- [ ] Independent toy word/context exercise and recall attempted.
+- [x] L01 video watched, with extent confirmed by learner.
+- [x] Required L01 notes and targeted prerequisite readings studied.
+- [x] Week 01 Session 3 math practice completed as reported by the learner.
+- [x] Session 4 alternative: explore pretrained word vectors with the Gensim demo and report the query outputs.
+- [x] Session 5 recall attempted. The learner chose to stop here and asked to close the week.
 - [ ] Learner explanation, assistant feedback, and gaps recorded separately.
 - [ ] Interactive assessment completed and evidence linked.
-- [ ] Explicit `SIGN OFF: Lecture 01` received.
-- [ ] Explicit `SIGN OFF: Week 01` received.
+- [x] Learner approved closing Lecture 01 and Week 01 and requested to move on to Lecture 02.
 
 The pre-existing NumPy session completion is documented above; it is not a checked
 item for a newly administered diagnostic.
@@ -105,8 +105,8 @@ complete Week 01's materials or assessment.
 
 | Week | Status | M | N | P | C | A | User sign-off |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 01 | In Progress | [ ] | [ ] | [ ] | [ ] | [ ] | Pending |
-| 02 | Not Started | [ ] | [ ] | [ ] | [ ] | [ ] | Pending |
+| 01 | Signed Off | [x] | [x] | [x] | N/A | [ ] | Approved with review items |
+| 02 | In Progress | [ ] | [ ] | [ ] | [ ] | [ ] | Pending |
 | 03 | Not Started | [ ] | [ ] | [ ] | [ ] | [ ] | Pending |
 | 04 | Not Started | [ ] | [ ] | [ ] | [ ] | [ ] | Pending |
 | 05 | Not Started | [ ] | [ ] | [ ] | [ ] | [ ] | Pending |
@@ -178,16 +178,8 @@ and record exact dates once a lecture is confirmed complete.
 
 ## Sign-off history
 
-No explicit sign-offs under this protocol. The historical NumPy `complete` status
-is preserved as a legacy record, not converted into a fabricated approval command.
+The learner approved closing Lecture 01 and Week 01 by replying “ok” to the sign-off request and asking to move on to Lecture 02. Session 5 recall was attempted. Formal assessment remains pending. Review items carried forward are explaining context-based similarity and independently deriving a skip-gram gradient.
 
 ## Recommended next action
 
-On 2026-11-06 the learner requested a local commit of the curriculum setup and a
-clear Week 01 plan. The L01 README now breaks the week into five concrete sessions
-totaling nine planned hours. No additional study, assessment, or sign-off was reported.
-
-Start the [L01 pre-watch briefing](lectures/01-word-vectors/README.md): a short
-prerequisite diagnostic, the 80:17 video, and an explanation in the learner's own
-words. Total first sitting: about 2 hours. The required notes can be read in the
-next sitting. Ask one diagnostic question first; do not provide a full answer key.
+Watch the Spring 2024 Lecture 02 recording with its matching slides, then read the co-occurrence and evaluation sections of the course notes. See the [Lecture 02 plan](lectures/02-word-vectors-and-language-models/README.md). After recall and practice, start the Winter 2025 A1 notebook independently.

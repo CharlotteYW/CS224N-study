@@ -1,6 +1,6 @@
 # Summary: Word vectors, word senses, and classifiers
 
-Status: Not Started
+Status: In Progress
 
 ## Why this unit exists
 

@@ -18,7 +18,7 @@ README/summary/QA, and the relevant [ROADMAP](ROADMAP.md) section. Consult
   preserved byte-for-byte. Initial saved outputs show a matrix-vector rank mistake
   later corrected in notes. Later rule/stack predictions remain unfilled/unexecuted
   in the saved notebook. Do not erase that evidence or restart the whole session.
-- Week 01 includes that legacy work, but L01 and the new diagnostic are Not Started.
+- The learner confirmed completing Week 01 Sessions 1–3. The earlier reference to “2” meant Session 2 readings. The learner approved closing Week 01 and requested to start L02.
   No assignment is active, no study hours were reported, and no new assessment or
   explicit milestone sign-off has occurred.
 
@@ -82,8 +82,4 @@ No blocker prevents starting study. Remaining questions are prerequisite readine
 retention of NumPy shape rules, actual future study hours, and later project/compute
 choices. Discuss those when relevant; do not ask for approval to repeat this setup.
 
-**Next:** offer the [L01 first sitting](lectures/01-word-vectors/README.md), about two
-hours. Begin with one small diagnostic, for example: given `X.shape == (4, 3)` and
-`q.shape == (3,)`, predict `(X @ q).shape` and explain why. Wait for the learner's
-answer before feedback. Then provide the verified L01 video/slides and focus questions.
-Do not mark the lecture watched or begin an assessment record until evidence exists.
+**Next:** Start Lecture 02 with the Spring 2024 recording, matching slides, and the co-occurrence and evaluation reading. Then ask for recall and begin Winter 2025 A1. Carry forward two Week 01 review items: context-based similarity and an independent skip-gram gradient derivation. The learner approved moving on and explicitly requested a commit and push of the learning records.

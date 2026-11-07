@@ -5,7 +5,7 @@
 | Kind | Lecture |
 | Priority | Core |
 | Plan week | 2 |
-| Status | Not Started |
+| Status | In Progress |
 
 Week 02: about 3 hours for the lecture and notes, then begin A1. See the roadmap for the full nine-hour week.
 
