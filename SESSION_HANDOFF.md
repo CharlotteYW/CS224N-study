@@ -111,3 +111,7 @@ this notebook and its referenced figure. The next planned topic is negative
 sampling review in Week 03. Formal assessment and Week 02 sign-off remain open.
 
 The learner closed the Week 03 negative-sampling review at the conceptual level and requested commit, push, and the next lesson. They deferred paper reading and gradient derivation. Start Lecture 03 backpropagation with the recording, slides, and one small computation graph.
+
+The learner reported finishing Lecture 03. Start with A2 Part 1 on the full-softmax objective, then use Lecture 04 and the PyTorch tutorial before A2 Part 3. Lecture 03 sign-off and an independent gradient check remain pending.
+
+On 2026-11-08 the learner asked to save Winter 2025 A2 locally and commit and push the current study changes. The handout and starter archive are in the ignored A2 work directory. The PDF signature and ZIP integrity checks passed. Next is the written full-softmax exercise in A2 Part 1.

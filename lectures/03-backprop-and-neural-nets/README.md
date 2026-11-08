@@ -5,7 +5,7 @@
 | Kind | Lecture |
 | Priority | Core |
 | Plan week | 4 |
-| Status | Not Started |
+| Status | In Progress |
 
 Week 04: devote the week to backpropagation and independent toy gradient checks. Official A2 mathematics starts in Week 05.
 
