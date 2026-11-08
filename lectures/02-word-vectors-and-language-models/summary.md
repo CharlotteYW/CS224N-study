@@ -76,6 +76,13 @@ Sources: [Lecture 02 slides](https://web.stanford.edu/class/archive/cs/cs224n/cs
 [Word2Vec negative sampling](https://proceedings.neurips.cc/paper_files/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf),
 and [GloVe equations 8–9](https://aclanthology.org/D14-1162.pdf).
 
+## Week 03 concept review
+
+The learner confirmed high-level understanding of negative sampling and chose to
+move on. They previously identified the labels for observed context pairs and
+sampled noise pairs. The paper reading and independent gradient derivation are
+deferred for later review.
+
 ## Explain without notes
 
 - [ ] Negative sampling as the practical replacement for the full softmax (independent practice in Week 03; Winter 2025 A2 uses naive softmax)

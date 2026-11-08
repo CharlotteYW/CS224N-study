@@ -5,8 +5,8 @@ here; [ROADMAP.md](ROADMAP.md) is the plan. No new learning is implied by planni
 
 ## Current state
 
-- **Current week:** Week 02, In Progress.
-- **Current lecture:** L02 Word Vectors and Language Models. Video and guided recall completed. The assigned reading and formal sign-off are pending confirmation.
+- **Current week:** Week 04, In Progress. The learner approved moving ahead after the Week 03 concept review.
+- **Current lecture:** L03 Backpropagation and Neural Network Basics. Materials are ready. L02 reading confirmation and formal sign-off remain open.
 - **Current assignment:** Winter 2025 A1, signed off for self-study after independent Part 1 work and a guided Part 2 reference review.
 - **Availability:** learner confirmed 8–10 hours/week on 2026-11-02.
 - **Additional progress:** learner confirmed on 2026-11-02 that no lectures or
@@ -15,7 +15,7 @@ here; [ROADMAP.md](ROADMAP.md) is the plan. No new learning is implied by planni
   substitutions; selected 2026 updates. See [COURSE_MAP.md](COURSE_MAP.md).
 - **Actual study hours:** not reported. Do not enter zero or substitute estimates.
 - **Latest formal assessment:** none under the new rubric. Week 01 was signed off with review items carried forward.
-- **Blockers:** none for starting L02. Historical assignment package compatibility,
+- **Blockers:** none for starting L03. Historical assignment package compatibility,
   full-training runtime, and course Colab access have not been tested.
 
 ## Preserved NumPy evidence
@@ -107,8 +107,8 @@ complete Week 01's materials or assessment.
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 01 | Signed Off | [x] | [x] | [x] | N/A | [ ] | Approved with review items |
 | 02 | In Progress | [ ] | [ ] | [ ] | [ ] | [ ] | Pending |
-| 03 | Not Started | [ ] | [ ] | [ ] | [ ] | [ ] | Pending |
-| 04 | Not Started | [ ] | [ ] | [ ] | [ ] | [ ] | Pending |
+| 03 | Signed Off | [ ] | [x] | [ ] | N/A | [ ] | Concept review approved. Paper and derivation deferred. |
+| 04 | In Progress | [ ] | [ ] | [ ] | [ ] | [ ] | Pending |
 | 05 | Not Started | [ ] | [ ] | [ ] | [ ] | [ ] | Pending |
 | 06 | Not Started | [ ] | [ ] | [ ] | [ ] | [ ] | Pending |
 | 07 | Not Started | [ ] | [ ] | [ ] | [ ] | [ ] | Pending |
@@ -182,6 +182,8 @@ The learner approved closing Lecture 01 and Week 01 by replying “ok” to the 
 
 A1 self-study sign-off: the learner said they understood the material and requested closing the notebook after saving and pushing the review. Part 2 reference answers are attributed to the assistant. No new formal assessment or Week 02 sign-off was reported.
 
+Week 03 self-study closeout: the learner confirmed high-level understanding of negative sampling and chose to defer the paper and gradient derivation. Earlier discussion evidenced how observed pairs and sampled negatives receive their labels. No independent derivation was reported.
+
 ## Recommended next action
 
-Resume with the Week 03 negative-sampling review and revisit any open Lecture 02 reading or sign-off items. A1 has been closed as a self-study exercise.
+Start [Lecture 03](lectures/03-backprop-and-neural-nets/README.md) with the Spring 2024 recording and matching slides. Focus on the computation graph, local derivatives, and how the loss gradient reaches each parameter. Begin with a single scalar graph before moving to the two-layer exercise.

@@ -109,3 +109,5 @@ and compilation of the edited code cells passed. Prior checks used the local
 preserved. The learner's private GitHub repository was verified before tracking
 this notebook and its referenced figure. The next planned topic is negative
 sampling review in Week 03. Formal assessment and Week 02 sign-off remain open.
+
+The learner closed the Week 03 negative-sampling review at the conceptual level and requested commit, push, and the next lesson. They deferred paper reading and gradient derivation. Start Lecture 03 backpropagation with the recording, slides, and one small computation graph.
