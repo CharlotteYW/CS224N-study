@@ -7,7 +7,7 @@ here; [ROADMAP.md](ROADMAP.md) is the plan. No new learning is implied by planni
 
 - **Current week:** Week 04, In Progress. The learner approved moving ahead after the Week 03 concept review.
 - **Current lecture:** L03 Backpropagation and Neural Network Basics. The learner reported finishing the video. L02 reading confirmation and formal sign-off remain open.
-- **Current assignment:** Winter 2025 A1, signed off for self-study after independent Part 1 work and a guided Part 2 reference review.
+- **Current assignment:** Winter 2025 A2, In Progress. Parts 1–2 have assistant reference notes prepared. The learner chose to defer independent written work.
 - **Availability:** learner confirmed 8–10 hours/week on 2026-11-02.
 - **Additional progress:** learner confirmed on 2026-11-02 that no lectures or
   assignments have been completed beyond the saved record.
@@ -71,7 +71,7 @@ mastered; the rubric and gaps must be read. Optional units may stay Not Started.
 | [PyTorch tutorial](sessions/02-pytorch/README.md) | Not Started | Weeks 06; no completion evidence |
 | [Hugging Face tutorial](sessions/03-huggingface-transformers/README.md) | Not Started | Weeks 15; no completion evidence |
 | [A1 — Winter 2025](assignments/a1-word-vectors/README.md) | Signed Off | Self-study closeout authorized by the learner. Part 2 used assistant reference answers. |
-| [A2 — Winter 2025](assignments/a2-word2vec-and-dependency/README.md) | Not Started | Weeks 05–08; no completion evidence |
+| [A2 — Winter 2025](assignments/a2-word2vec-and-dependency/README.md) | In Progress | Parts 1–2 reference prepared. Learner review and parser work pending. |
 | [A3 — Winter 2025](assignments/a3-neural-machine-translation/README.md) | Not Started | Weeks 11–13; no completion evidence |
 | [A4 — Winter 2025](assignments/a4-transformers/README.md) | Not Started | Weeks 16–18; no completion evidence |
 | [Final project](project/README.md) | Not Started | Weeks 25–28; tentative idea in 10; no completion evidence |
@@ -186,4 +186,4 @@ Week 03 self-study closeout: the learner confirmed high-level understanding of n
 
 ## Recommended next action
 
-Start the written portion of [Winter 2025 A2](assignments/a2-word2vec-and-dependency/README.md) with a short full-softmax review. Study Lecture 04 and the PyTorch tutorial before the parser portion.
+Review the [A2 Parts 1–2 reference](assignments/a2-word2vec-and-dependency/parts-1-2-reference.md) at the learner's chosen pace. Study Lecture 04 and the PyTorch tutorial before the parser portion.

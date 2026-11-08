@@ -115,3 +115,5 @@ The learner closed the Week 03 negative-sampling review at the conceptual level 
 The learner reported finishing Lecture 03. Start with A2 Part 1 on the full-softmax objective, then use Lecture 04 and the PyTorch tutorial before A2 Part 3. Lecture 03 sign-off and an independent gradient check remain pending.
 
 On 2026-11-08 the learner asked to save Winter 2025 A2 locally and commit and push the current study changes. The handout and starter archive are in the ignored A2 work directory. The PDF signature and ZIP integrity checks passed. Next is the written full-softmax exercise in A2 Part 1.
+
+The learner deferred independent derivations for A2 Parts 1–2 and requested a worked reference for private self-study. The reference covers Word2Vec, Adam, and dropout. The assistant checked both Word2Vec gradients with finite differences and checked the dropout mean. Learner review and parser work are pending.

@@ -5,7 +5,7 @@
 | Kind | Assignment |
 | Priority | Core |
 | Plan week | 05–08 |
-| Status | Not Started |
+| Status | In Progress |
 
 Winter 2025 source. Plan for 18–24 active hours across Weeks 05–08; unattended training is additional. The detailed weekly budget is in [ROADMAP](../../ROADMAP.md).
 
@@ -30,6 +30,8 @@ Unzip into assignments/a2-word2vec-and-dependency/work/ (gitignored). Study note
 Full reading lists for the quarter are on the [Winter 2025 schedule](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1254/index.html#schedule) and the [Spring 2024 site](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1246/).
 
 ## Files in this folder
+
+- [parts-1-2-reference.md](parts-1-2-reference.md) — worked answers requested for personal review in this private repository.
 
 - [summary.md](summary.md) — concept targets, then your notes after you study
 - [qa.md](qa.md) — questions from the study sessions
