@@ -7,7 +7,7 @@ here; [ROADMAP.md](ROADMAP.md) is the plan. No new learning is implied by planni
 
 - **Current week:** Week 02, In Progress.
 - **Current lecture:** L02 Word Vectors and Language Models. Video and guided recall completed. The assigned reading and formal sign-off are pending confirmation.
-- **Current assignment:** Winter 2025 A1, In Progress. The official starter is available in the ignored assignment work directory.
+- **Current assignment:** Winter 2025 A1, signed off for self-study after independent Part 1 work and a guided Part 2 reference review.
 - **Availability:** learner confirmed 8–10 hours/week on 2026-11-02.
 - **Additional progress:** learner confirmed on 2026-11-02 that no lectures or
   assignments have been completed beyond the saved record.
@@ -70,7 +70,7 @@ mastered; the rubric and gaps must be read. Optional units may stay Not Started.
 | [Ls02 — Question answering and knowledge](lectures/s02-qa-and-knowledge/README.md) | Not Started | Week 22; no completion evidence |
 | [PyTorch tutorial](sessions/02-pytorch/README.md) | Not Started | Weeks 06; no completion evidence |
 | [Hugging Face tutorial](sessions/03-huggingface-transformers/README.md) | Not Started | Weeks 15; no completion evidence |
-| [A1 — Winter 2025](assignments/a1-word-vectors/README.md) | In Progress | Official starter unpacked. Learner attempts pending. |
+| [A1 — Winter 2025](assignments/a1-word-vectors/README.md) | Signed Off | Self-study closeout authorized by the learner. Part 2 used assistant reference answers. |
 | [A2 — Winter 2025](assignments/a2-word2vec-and-dependency/README.md) | Not Started | Weeks 05–08; no completion evidence |
 | [A3 — Winter 2025](assignments/a3-neural-machine-translation/README.md) | Not Started | Weeks 11–13; no completion evidence |
 | [A4 — Winter 2025](assignments/a4-transformers/README.md) | Not Started | Weeks 16–18; no completion evidence |
@@ -180,6 +180,8 @@ and record exact dates once a lecture is confirmed complete.
 
 The learner approved closing Lecture 01 and Week 01 by replying “ok” to the sign-off request and asking to move on to Lecture 02. Session 5 recall was attempted. Formal assessment remains pending. Review items carried forward are explaining context-based similarity and independently deriving a skip-gram gradient.
 
+A1 self-study sign-off: the learner said they understood the material and requested closing the notebook after saving and pushing the review. Part 2 reference answers are attributed to the assistant. No new formal assessment or Week 02 sign-off was reported.
+
 ## Recommended next action
 
-Start Winter 2025 A1 in the local work directory. Run the setup cells, read Part 1, and attempt Question 1.1 independently. Continue to the co-occurrence matrix and low-dimensional visualization in Week 02. See the [A1 plan](assignments/a1-word-vectors/README.md).
+Resume with the Week 03 negative-sampling review and revisit any open Lecture 02 reading or sign-off items. A1 has been closed as a self-study exercise.

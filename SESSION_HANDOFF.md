@@ -87,3 +87,25 @@ choices. Discuss those when relevant; do not ask for approval to repeat this set
 The official A1 starter was unpacked in the ignored assignment work directory. The learner's first step is to run the setup cells and independently attempt Question 1.1. Carry the Week 01 context-similarity explanation and independent skip-gram gradient derivation into later review.
 
 A dedicated Python 3.12 environment was prepared under the ignored A1 student directory. Import checks passed for datasets, Gensim, scikit-learn, Matplotlib, and JupyterLab. The learner will run the notebook setup cells, including the data-loading step.
+
+The learner requested a comparison of word-vector methods before starting A1. The Lecture 02 summary now includes assistant examples for Skip-gram, CBOW, GloVe, and truncated SVD. A1 setup and Question 1.1 remain the next learner actions.
+
+The learner reported opening the A1 notebook and requested a reviewable explanation of its goals. The tracked A1 summary now maps both parts to their learning outcomes. No notebook checks or learner solutions were reported.
+
+The learner reported a passing A1 Question 1.2 check. Next is Question 1.3 on truncated SVD. The public QA records the debugging concepts and the learner-reported result.
+
+The learner reported that the A1 Question 1.3 check passed. Next is Question 1.4, which maps selected words to rows of the reduced matrix and plots their two coordinates.
+
+The learner reported completing A1 Part 1. Questions 1.2 and 1.3 checks were reported as passing. Continue at Question 2.1 and ask for an independent comparison of the GloVe and Part 1 plots.
+
+The learner requested a worked self-study review of A1 Part 2 and stated that they will not submit the assignment. Reference examples were checked against the local GloVe model. Learner execution, assessment, and sign-off for Part 2 remain unreported.
+
+
+A1 self-study closeout: The learner reported understanding the chapter and asked
+to save, commit, and push the notebook before closing it. Added 13 written
+references and five runnable example cells for Part 2. Notebook schema validation
+and compilation of the edited code cells passed. Prior checks used the local
+200-dimensional GloVe model. Existing cells and outputs outside the edits were
+preserved. The learner's private GitHub repository was verified before tracking
+this notebook and its referenced figure. The next planned topic is negative
+sampling review in Week 03. Formal assessment and Week 02 sign-off remain open.

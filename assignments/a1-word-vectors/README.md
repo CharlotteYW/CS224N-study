@@ -5,7 +5,7 @@
 | Kind | Assignment |
 | Priority | Core |
 | Plan week | 02–03 |
-| Status | In Progress |
+| Status | Signed Off for self-study |
 
 Winter 2025 source. Plan for 8–12 active hours across Weeks 02–03; unattended training is additional. The detailed weekly budget is in [ROADMAP](../../ROADMAP.md).
 
@@ -24,7 +24,7 @@ The notebook runs, and summary.md says what surprised you in the nearest neighbo
 - [Winter 2025 schedule](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1254/index.html#schedule)
 - Lectures: `lectures/01-word-vectors and lectures/02-word-vectors-and-language-models`
 
-Download the zip into assignments/a1-word-vectors/work/. That directory is gitignored. Do not commit the starter code or your solution. Notes about what you learned stay in summary.md and qa.md.
+Download the zip into assignments/a1-word-vectors/work/. The work directory is ignored by default. The learner explicitly chose to track the completed self-study notebook and its referenced figure in this private repository. The rest of the starter archive and the local environment stay in the ignored directory. Learning notes are in summary.md and qa.md.
 
 Full reading lists for the quarter are on the [Winter 2025 schedule](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1254/index.html#schedule) and the [Spring 2024 site](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1246/).
 
@@ -37,15 +37,14 @@ Full reading lists for the quarter are on the [Winter 2025 schedule](https://web
 
 L01–02 and the NumPy prerequisite review.
 
-- [ ] Inspect the 2025 notebook instructions and environment; begin co-occurrence/visualization work.
+- [x] Inspect the notebook and complete Part 1 co-occurrence and visualization work, as reported by the learner.
 - [ ] Attempt the remaining pretrained-vector exploration and written interpretation independently.
 - [ ] Rerun the notebook; record actual kernel/commands, observations, and limitations.
 - [ ] Explain similarity, analogy, and bias findings; complete assessment and request A1 sign-off.
 
 ## Evidence and coaching boundary
 
-Keep official written answers, starter code, implementations, and submission artifacts
-in this folder's ignored `work/` directory. Public summary/QA records concepts,
+Keep course work in this folder's `work/` directory. The private self-study notebook is the tracked exception described above. Summary/QA records concepts,
 learner questions, allowed hints, mistakes/corrections, and non-solution reflections.
 Record tests only when actually run, including command, runner, outcome, and limits.
 For completion, satisfy all official required tasks, explain your reasoning, document
