@@ -6,7 +6,7 @@ here; [ROADMAP.md](ROADMAP.md) is the plan. No new learning is implied by planni
 ## Current state
 
 - **Current week:** Week 04, In Progress. The learner approved moving ahead after the Week 03 concept review.
-- **Current lecture:** L03 Backpropagation and Neural Network Basics. The learner reported finishing the video. L02 reading confirmation and formal sign-off remain open.
+- **Current lecture:** L04 Dependency Parsing. The learner reported finishing the video. L02 and L03 sign-off items remain open.
 - **Current assignment:** Winter 2025 A2, In Progress. Parts 1–2 have assistant reference notes prepared. The learner chose to defer independent written work.
 - **Availability:** learner confirmed 8–10 hours/week on 2026-11-02.
 - **Additional progress:** learner confirmed on 2026-11-02 that no lectures or
@@ -51,7 +51,7 @@ mastered; the rubric and gaps must be read. Optional units may stay Not Started.
 | [L01 — Word vectors](lectures/01-word-vectors/README.md) | Signed Off | Video, notes, and practice reported complete. Recall attempted. Review items carried forward. |
 | [L02 — Word vectors, word senses, and classifiers](lectures/02-word-vectors-and-language-models/README.md) | In Progress | Video completed and guided recall recorded. Reading confirmation and formal sign-off pending. |
 | [L03 — Backpropagation and neural network basics](lectures/03-backprop-and-neural-nets/README.md) | In Progress | Video completed as reported. Guided examples reviewed. Independent check and sign-off pending. |
-| [L04 — Dependency parsing](lectures/04-dependency-parsing/README.md) | Not Started | Week 6; no completion evidence |
+| [L04 — Dependency parsing](lectures/04-dependency-parsing/README.md) | In Progress | Video completed as reported. Transition practice and sign-off pending. |
 | [L05 — Recurrent neural networks and language models](lectures/05-recurrent-neural-networks/README.md) | Not Started | Week 9; no completion evidence |
 | [L06 — Sequence-to-sequence models, attention, and machine translation](lectures/06-seq2seq-and-machine-translation/README.md) | Not Started | Week 10; no completion evidence |
 | [L07 — Final projects and a first look at the project](lectures/07-final-projects/README.md) | Not Started | Week 10; revisit 25; no completion evidence |
@@ -186,4 +186,4 @@ Week 03 self-study closeout: the learner confirmed high-level understanding of n
 
 ## Recommended next action
 
-Review the [A2 Parts 1–2 reference](assignments/a2-word2vec-and-dependency/parts-1-2-reference.md) at the learner's chosen pace. Study Lecture 04 and the PyTorch tutorial before the parser portion.
+Review the [A2 Part 3 study guide](assignments/a2-word2vec-and-dependency/part-3-study-guide.md). The learner requested a worked review and deferred independent implementation and training. The guide is available. Learner review and sign-off are pending.

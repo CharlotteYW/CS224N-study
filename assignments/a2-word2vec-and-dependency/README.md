@@ -31,6 +31,8 @@ Full reading lists for the quarter are on the [Winter 2025 schedule](https://web
 
 ## Files in this folder
 
+- [part-3-study-guide.md](part-3-study-guide.md) — question-by-question overview and worked parser examples for self-study.
+
 - [parts-1-2-reference.md](parts-1-2-reference.md) — worked answers requested for personal review in this private repository.
 
 - [summary.md](summary.md) — concept targets, then your notes after you study

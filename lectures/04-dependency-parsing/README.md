@@ -5,7 +5,7 @@
 | Kind | Lecture |
 | Priority | Core |
 | Plan week | 6 |
-| Status | Not Started |
+| Status | In Progress |
 
 Week 06: study parsing alongside the PyTorch session, then begin the A2 parser milestones.
 

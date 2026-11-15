@@ -117,3 +117,7 @@ The learner reported finishing Lecture 03. Start with A2 Part 1 on the full-soft
 On 2026-11-08 the learner asked to save Winter 2025 A2 locally and commit and push the current study changes. The handout and starter archive are in the ignored A2 work directory. The PDF signature and ZIP integrity checks passed. Next is the written full-softmax exercise in A2 Part 1.
 
 The learner deferred independent derivations for A2 Parts 1–2 and requested a worked reference for private self-study. The reference covers Word2Vec, Adam, and dropout. The assistant checked both Word2Vec gradients with finite differences and checked the dropout mean. Learner review and parser work are pending.
+
+The learner reported finishing Lecture 04 after discussing constituency, Pāṇini, dependency arcs, and projectivity. Next is the hand trace in A2 Part 3(a), followed by the transition implementation and PyTorch tutorial before the neural model.
+
+On 2026-11-15 the learner chose a worked review of A2 Part 3 to save time and requested a commit and push. The study guide maps 3(a) through 3(g) to their goals and includes an original transition trace, classifier shapes and gradients, and attachment examples. Independent implementation, training, and sign-off remain pending.
